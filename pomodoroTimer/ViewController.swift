@@ -66,7 +66,7 @@ class ViewController: UIViewController {
             
             UIAlertAction in
                 self.isTimerRunning=false
-                self.seconds=120
+                self.seconds=300
                 self.runTimer()
             })
             self.present(alert, animated: true, completion: nil)
