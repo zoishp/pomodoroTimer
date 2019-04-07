@@ -193,6 +193,7 @@
 				TargetAttributes = {
 					9FD5D97F1FBE7D82004420A9 = {
 						CreatedOnToolsVersion = 8.1;
+						DevelopmentTeam = 2DFDP9P2RH;
 						ProvisioningStyle = Automatic;
 					};
 					9FD5D9931FBE7D82004420A9 = {
@@ -412,6 +413,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 2DFDP9P2RH;
 				INFOPLIST_FILE = pomodoroTimer/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = zp.pomodoroTimer;
@@ -424,6 +426,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 2DFDP9P2RH;
 				INFOPLIST_FILE = pomodoroTimer/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = zp.pomodoroTimer;
@@ -505,6 +508,7 @@
 				9FD5D9AA1FBE7D82004420A9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9FD5D9AB1FBE7D82004420A9 /* Build configuration list for PBXNativeTarget "pomodoroTimerTests" */ = {
 			isa = XCConfigurationList;
@@ -513,6 +517,7 @@
 				9FD5D9AD1FBE7D82004420A9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9FD5D9AE1FBE7D82004420A9 /* Build configuration list for PBXNativeTarget "pomodoroTimerUITests" */ = {
 			isa = XCConfigurationList;
@@ -521,6 +526,7 @@
 				9FD5D9B01FBE7D82004420A9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
